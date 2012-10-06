@@ -1,0 +1,13 @@
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\bin\Debug\Shutdown.exe
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\bin\Debug\Shutdown.pdb
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\MainWindow.baml
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\MainWindow.g.cs
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\App.g.cs
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\Shutdown_MarkupCompile.cache
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\Shutdown.g.resources
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\Shutdown.Properties.Resources.resources
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\Shutdown.exe
+c:\users\vishnu\documents\visual studio 2010\Projects\Shutdown\Shutdown\obj\x86\Debug\Shutdown.pdb
